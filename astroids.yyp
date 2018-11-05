@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "78c86460-1dbd-4f9d-96d7-2956f4dacc07",
+            "Value": {
+                "id": "79e7d05d-70ea-4849-b0af-b6a6c2349398",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8207b3c5-b5cf-4b1d-a7dd-71869f34110c",
             "Value": {
                 "id": "04277d0c-6cf5-4c6a-911b-cfa5d56b38b4",
@@ -252,6 +260,14 @@
                 "id": "c0d84742-700b-4052-b591-fda9832694f6",
                 "resourcePath": "sprites\\sprite3\\sprite3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c100ead2-2b02-4743-a51a-881d6f23b060",
+            "Value": {
+                "id": "851d82b6-dd30-4b1a-a9ef-54e47e61495c",
+                "resourcePath": "rooms\\shooting\\shooting.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

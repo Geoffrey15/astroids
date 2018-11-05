@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 474A7598
-/// @DnDArgument : "room" "spook"
-/// @DnDSaveInfo : "room" "90fe5afc-fd70-4c77-91bf-43adb249f76f"
-room_goto(spook);
+/// @DnDArgument : "room" "basic"
+/// @DnDSaveInfo : "room" "abf14a83-c7f9-48a9-8f3e-eadf25b086d5"
+room_goto(basic);
